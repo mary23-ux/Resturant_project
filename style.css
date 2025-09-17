@@ -1,0 +1,46 @@
+{
+    margin:0
+    padding:0
+    box-sizing:0
+}
+body {
+    font-family: 'Roboto', 'Arial Narrow', Arial, sans-serif;
+    background-color:#C75D2C;
+    line-height: 1.6;
+    color:#EAEBD0;
+    font-weight: 500;
+    font-size: 16px;
+    font-style: italic;
+    letter-spacing: 1px;
+    letter-transform: uppercase;
+
+}
+
+p{
+    color: rgb(238,194,139);
+}
+
+h1{
+    color: rgb(56, 2, 63);
+}
+
+h2{
+    color: rgb(56, 2, 63);
+}
+
+
+/* foter section */
+.footer {
+    background-color: rgb(17, 2, 2);
+    color:rgb(238, 194, 139);
+    text-align: center;
+    padding: 5px;
+    margin:0;
+}
+
+.footer p {
+    font-size: 18;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 2px;
+}
